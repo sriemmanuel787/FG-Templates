@@ -1,0 +1,55 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 326 226" width="326" height="226">
+	<title>Shape 10</title>
+	<defs>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse"  x1="0" y1="114" x2="205" y2="223">
+			<stop offset=".5" stop-color="#0046a8"  />
+			<stop offset=".6" stop-color="#9bb6dd"  />
+			<stop offset=".7" stop-color="#0046a8"  />
+		</linearGradient>
+		<linearGradient id="grd2" gradientUnits="userSpaceOnUse"  x1="15.4" y1="135" x2="186.6" y2="226">
+			<stop offset=".5" stop-color="#cc000c"  />
+			<stop offset=".6" stop-color="#ec9ba0"  />
+			<stop offset=".7" stop-color="#cd000c"  />
+			<stop offset=".7" stop-color="#cc000c"  />
+			<stop offset="1" stop-color="#7c0007"  />
+		</linearGradient>
+		<linearGradient id="grd3" gradientUnits="userSpaceOnUse"  x1="182" y1="136.2" x2="217" y2="154.8">
+			<stop offset="0" stop-color="#840008"  />
+			<stop offset=".6" stop-color="#ce000c"  />
+		</linearGradient>
+		<linearGradient id="grd4" gradientUnits="userSpaceOnUse"  x1="203.7" y1="60" x2="308.3" y2="136">
+			<stop offset=".2" stop-color="#ec9a9f"  />
+			<stop offset=".3" stop-color="#ce000c"  />
+		</linearGradient>
+		<linearGradient id="grd5" gradientUnits="userSpaceOnUse"  x1="213.1" y1="27" x2="321.9" y2="106">
+			<stop offset=".3" stop-color="#9bb6dd"  />
+			<stop offset=".4" stop-color="#0046a8"  />
+		</linearGradient>
+		<linearGradient id="grd6" gradientUnits="userSpaceOnUse"  x1="215" y1="52.2" x2="306" y2="104.8">
+			<stop offset=".4" stop-color="#ffffff" stop-opacity="0" />
+			<stop offset=".5" stop-color="#000000" stop-opacity=".4" />
+			<stop offset=".6" stop-color="#ffffff" stop-opacity="0" />
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.s0 { fill: #ffffff } 
+		.s1 { fill: url(#grd1) } 
+		.s2 { fill: url(#grd2) } 
+		.s3 { fill: url(#grd3) } 
+		.s4 { fill: #ce000c } 
+		.s5 { fill: url(#grd4) } 
+		.s6 { fill: url(#grd5) } 
+		.s7 { fill: url(#grd6) } 
+	</style>
+	<path id="Shape 7" class="s0" d="m0 226c0 0 31.88-35.14 98-85c66.12-49.86 125-58 125-58l2 1l-20 28l-96 38l-109 76z" />
+	<path id="Shape 6" class="s1" d="m0 226c0 0 27-29.7 95-72c68-42.3 109-43 109-43h1l-19 26l-104 42l-82 47z" />
+	<path id="Shape 5" class="s2" d="m202 158c0 0-2.91 8-16 8c-13.09 0-10.41-1-18-1c-7.59 0-48.03 0.87-85 19c-36.97 18.13-71 42-71 42h-12c0 0 20.26-23.05 87-58c66.74-34.95 97-33 97-33l16 10l2 13z" />
+	<path id="Shape 4" class="s3" d="m188 133l6-1l23 3l-15 24c0 0-0.78-4.11-10-11c-9.22-6.89-10-9-10-9l6-6z" />
+	<path id="Shape 9" class="s4" d="m217 102l43-4l-6 7l-36 5l-1-8z" />
+	<path id="Shape 3" class="s5" d="m211 103c0 0 47.64 0.64 67-9c19.36-9.64 48-34 48-34v16c0 0 0-0.06-29 29c-29 29.06-51.13 31-67 31c-15.87 0-29.52-2-35-2c-5.48 0-9 1-9 1l25-32z" />
+	<path id="Shape 8" class="s4" d="m282 97l7-17l37-26v16l-44 27z" />
+	<path id="Shape 2" class="s6" d="m209 106l15-24c0 0 0.02-2.77 8-7c7.98-4.23 43.19-6.47 56-14c12.81-7.53 28-23 28-23l10-11v31c0 0-29.5 26.21-44 34c-14.5 7.79-16.39 7.15-29 9c-12.61 1.85-33.53-1.14-44 5z" />
+	<path id="Shape 1" class="s0" d="m225 80c0 0 7.86-19.86 26-38c18.14-18.14 42.43-7.43 59-24c16.57-16.57 16-18 16-18v28c0 0-18.48 19.92-34 30c-15.52 10.08-15.99 8.34-34 11c-18.01 2.66-25.38 4.84-33 11z" />
+	<path id="Shape 10" class="s7" d="m245 135l-30 1l58-104c0 0 4.73-0.82 15-4c10.27-3.18 18-7 18-7l-61 114z" />
+</svg>

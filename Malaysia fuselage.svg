@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1254 179" width="1254" height="179">
+	<title>Shape 1</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ed1c24 } 
+		.shp1 { fill: #002b5c } 
+	</style>
+	<path id="Shape 3" class="shp0" d="M-1 0C-1 0 524.69 9.85 883 58C1241.31 106.15 1020 120 1020 120L1070 179C1070 179 562.44 11.98 -1 0Z" />
+	<path id="Shape 1" class="shp1" d="M1254 179L1070 179C1070 179 982.56 113.36 912 72C841.44 30.64 733 9 733 9C733 9 796.1 9.1 912 29C1027.9 48.9 1254 179 1254 179Z" />
+</svg>

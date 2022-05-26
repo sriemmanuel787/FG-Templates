@@ -1,0 +1,8 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 208 127" width="208" height="127">
+	<title>Shape 3</title>
+	<style>
+		tspan { white-space:pre }
+		.s0 { fill: #ffffff } 
+	</style>
+	<path id="Shape 3" class="s0" d="m205 0l3 57l-56-23l53-34zm-83 80v-31l14 31l70 3v19l-64-4l-19 29l-1-30l-39-1l-2 30l-18-28l-61 3v-19l66-2l14-33v32l40 1zm-61-33v11h-60v-12l60 1zm-3-22l2 13l-59 1v-13l57-1zm-56-9l-2-12l56 1l2 12l-56-1z" />
+</svg>
